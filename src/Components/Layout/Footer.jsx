@@ -116,13 +116,7 @@ const Footer = () => {
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 pb-8 pt-2 text-center text-gray-400 gap-10 items-center">
-        <span>
-          &copy; 2023{" "}
-          <span className="text-[#342ac8] font-bold cursor-pointer">
-            Rahi ahmed
-          </span>{" "}
-          . all rights reserved.
-        </span>
+        
 
         <span>
           Terms <sup className="font-[800]">.</sup> privacy policy
